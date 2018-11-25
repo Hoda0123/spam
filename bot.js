@@ -29,7 +29,7 @@ client.on('message', message => {
 
 client.on('message', message => {
     if(message.content === '-ريب'){
-        message.channel.send('#credits @!ArsNaL -Galaxy#6129  1000')
+        message.channel.send('#credits')
     }
 });
 
@@ -47,7 +47,7 @@ client2.on('message', message => {
 
 client2.on('message', message => {
     if(message.content === '-ريب'){
-        message.channel.send('#credits @!ArsNaL -Galaxy#6129  1000')
+        message.channel.send('#credits')
     }
 });
 
